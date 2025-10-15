@@ -1,0 +1,11 @@
+id,name,description,price,image
+1,Wireless Mouse,Ergonomic wireless mouse with silent clicks and 2.4GHz connection,19.99,images/wireless_mouse.png
+2,Mechanical Keyboard,RGB mechanical keyboard with blue switches,49.99,images/mechanical_keyboard.jpg
+3,USB-C Charger,Fast charging USB-C wall charger with 65W output,24.99,images/usb-c.jpg
+4,Laptop Stand,Adjustable aluminum stand compatible with all laptops,29.99,images/laptop.jpg
+5,Noise Cancelling Headphones,Over-ear wireless headphones with active noise cancellation,89.99,images/headphone.jpg
+6,Smart Watch,Fitness tracking smartwatch with heart rate and sleep monitoring,79.99,images/watch.jpg
+7,Portable SSD,500GB portable solid-state drive with USB 3.2,59.99,images/portable.jpg
+8,Webcam,1080p full HD webcam with built-in microphone,39.99,images/webcam.png
+9,Bluetooth Speaker,Compact Bluetooth speaker with deep bass,34.99,images/bluetooth.jpg
+10,Wireless Earbuds,True wireless earbuds with long battery life and touch controls,69.99,images/earbuds.jpg
